@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/Project_banhang/src/java/control/EditAccountControl.java</file>
+            <file>file:/E:/Project_banhang/src/java/entity/ProductInManager.java</file>
+            <file>file:/E:/Project_banhang/web/AccountManager.jsp</file>
+            <file>file:/E:/Project_banhang/web/style/style.css</file>
+            <file>file:/E:/Project_banhang/src/java/control/SignUpControl.java</file>
+            <file>file:/E:/Project_banhang/web/Left.jsp</file>
+            <file>file:/E:/Project_banhang/src/java/control/EditControl.java</file>
+            <file>file:/E:/Project_banhang/src/java/entity/Product.java</file>
+            <file>file:/E:/Project_banhang/web/Footer.jsp</file>
+            <file>file:/E:/Project_banhang/src/java/entity/Ship.java</file>
+            <file>file:/E:/Project_banhang/web/Detail.jsp</file>
+            <file>file:/E:/Project_banhang/src/java/entity/Category.java</file>
+            <file>file:/E:/Project_banhang/src/java/control/LoadControl.java</file>
+            <file>file:/E:/Project_banhang/web/Buy.jsp</file>
+            <file>file:/E:/Project_banhang/web/Menu.jsp</file>
+            <file>file:/E:/Project_banhang/web/Home.jsp</file>
+            <file>file:/E:/Project_banhang/src/java/control/FinishControl.java</file>
+            <file>file:/E:/Project_banhang/web/ShowCart.jsp</file>
+            <file>file:/E:/Project_banhang/src/java/dao/DAO.java</file>
+            <file>file:/E:/Project_banhang/web/ManagerProduct.jsp</file>
+            <file>file:/E:/Project_banhang/src/java/control/ShowCartControl.java</file>
+            <file>file:/E:/Project_banhang/src/java/control/HomeControl.java</file>
+            <file>file:/E:/Project_banhang/src/java/entity/Cart.java</file>
+            <file>file:/E:/Project_banhang/web/Login.jsp</file>
+            <file>file:/E:/Project_banhang/src/java/control/AddControl.java</file>
+            <file>file:/E:/Project_banhang/src/java/control/BuyControl.java</file>
+            <file>file:/E:/Project_banhang/src/java/control/ManagerControl.java</file>
+            <file>file:/E:/Project_banhang/web/Edit.jsp</file>
+            <file>file:/E:/Project_banhang/web/Finish.jsp</file>
+        </group>
+    </open-files>
+</project-private>
