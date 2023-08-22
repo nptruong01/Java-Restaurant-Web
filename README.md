@@ -13,7 +13,7 @@ This Java web application utilizes SQL Server and Bootstrap for efficient restau
 - **Order Management**: Admins can manage customer orders.
 
 ## Screenshots
-
+<div align="center">
 ### Introduction Page
 <img src="https://github.com/nptruong01/Restaurant/assets/113322089/e71ecae2-fbeb-47a1-a79e-2aa1a4a7340b.png" alt="Introduction Page" width="450"/>
 
@@ -46,6 +46,7 @@ This Java web application utilizes SQL Server and Bootstrap for efficient restau
 
 ### Contact Details Page
 <img src="https://github.com/nptruong01/Restaurant/assets/113322089/9f555ddd-3191-45ab-983e-ca58713a36ce.png" alt="Contact Details Page" width="450"/>
+</div>
 
 ## License
 
