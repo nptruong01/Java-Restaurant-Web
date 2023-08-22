@@ -14,6 +14,7 @@ This Java web application utilizes SQL Server and Bootstrap for efficient restau
 
 ## Screenshots
 <div align="center">
+  
 ### Introduction Page
 <img src="https://github.com/nptruong01/Restaurant/assets/113322089/e71ecae2-fbeb-47a1-a79e-2aa1a4a7340b.png" alt="Introduction Page" width="450"/>
 
