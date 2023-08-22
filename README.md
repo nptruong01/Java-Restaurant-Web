@@ -1,4 +1,4 @@
-# Restaurant Web Application
+# Java Restaurant Web
 
 This Java web application utilizes SQL Server and Bootstrap for efficient restaurant management.
 
